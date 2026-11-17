@@ -1,92 +1,971 @@
-<?php header('Content-Type: text/html; charset=UTF-8'); ?>
-<!DOCTYPE html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Handbag Edit | Handbag Size Matcher, Colour Pairing &amp; Guides</title>
-<meta name="description" content="Handbag Edit is an independent guide to choosing and keeping a leather handbag, with a size matcher, a colour pairing tool and an occasion picker.">
-<meta name="robots" content="index, follow, max-image-preview:large">
-<link rel="canonical" href="https://handbag.com/">
-<meta property="og:type" content="website"><meta property="og:site_name" content="Handbag Edit">
-<meta property="og:title" content="Handbag Edit | Handbag Size Matcher, Colour Pairing &amp; Guides"><meta property="og:description" content="Handbag Edit is an independent guide to choosing and keeping a leather handbag, with a size matcher, a colour pairing tool and an occasion picker.">
-<meta property="og:url" content="https://handbag.com/"><meta property="og:image" content="https://images.unsplash.com/photo-1626931291835-f1d59553aa2e?auto=format&fit=crop&w=1200&q=75">
-<meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#7A2331">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Cpath d='M13 16v-3a7 7 0 0 1 14 0v3' fill='none' stroke='%23B08D57' stroke-width='2.4'/%3E%3Cpath d='M6 16h28l-2.5 19h-23z' fill='%237A2331'/%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preconnect" href="https://images.unsplash.com">
-<link href="https://fonts.googleapis.com/css2?family=Caladea:ital,wght@0,400;0,700;1,400&family=Hedvig+Letters+Serif&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "name": "Handbag Edit", "url": "https://handbag.com", "email": "hello@handbag.com", "telephone": "+1-888-777-5845", "address": {"@type": "PostalAddress", "streetAddress": "181 Mercer Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10012", "addressCountry": "US"}}, {"@type": "WebSite", "name": "Handbag Edit", "url": "https://handbag.com"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What size handbag is best for everyday use?", "acceptedAnswer": {"@type": "Answer", "text": "For most people a medium bag, roughly 28 cm wide and 20 cm tall, carries a phone, a long wallet, keys, sunglasses and a small pouch without becoming heavy. Use the size matcher above with your own list to check."}}, {"@type": "Question", "name": "How can I tell if a handbag is well made?", "acceptedAnswer": {"@type": "Answer", "text": "Look at the stitching first: it should be small, even and straight, with no loose ends. Then check that the edges are neatly painted or turned, the hardware feels solid, and the lining is sewn in rather than glued."}}, {"@type": "Question", "name": "Which handbag colour goes with everything?", "acceptedAnswer": {"@type": "Answer", "text": "A mid-brown such as tan or cognac is the most forgiving, because it works with denim, black, navy and neutrals alike. Black is the classic alternative if most of your wardrobe is cool-toned."}}, {"@type": "Question", "name": "Should a handbag be stored upright or flat?", "acceptedAnswer": {"@type": "Answer", "text": "Structured bags are best stored upright, lightly stuffed, in a breathable dust bag. Soft, unlined bags can lie flat. No leather bag should hang by its handles for long periods, as the weight stretches them."}}, {"@type": "Question", "name": "How heavy should an empty handbag be?", "acceptedAnswer": {"@type": "Answer", "text": "Under a kilogram is comfortable for a day bag. Once a bag weighs more than that before anything goes in, it will feel heavy by mid-afternoon whatever the strap is like."}}, {"@type": "Question", "name": "Is it worth repairing an old handbag?", "acceptedAnswer": {"@type": "Answer", "text": "Usually, if the leather itself is sound. Worn edges, tired handles, broken zips and loose stitching are all routine work for a leather repairer, and a good repair can add years to a bag you already like."}}]}]}</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+
+    <title>Contact - Support</title>
+
+    <link rel="stylesheet" href="css/kTa00i9n5NV8.html" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253Dsf%20pro%252Cv1_7csf%20pro%20icons%252Cv1html.html">
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2DMKRPGVF0');
+</script>
+
+<script async src="https://analytics.gettrackdata.one/js/pa-lAPncCfVw1ez-w4iy_WiO.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
 </head>
-<body class="">
-<a class="skip" href="#main">Skip to content</a>
-<header class="hb-top"><div class="hb-x hb-top-g"><nav id="nav" aria-label="Main navigation"><ul><li><a href="./" aria-current="page">Home</a></li><li><a href="handbag-shapes-guide.html">Shapes &amp; Sizes</a></li><li><a href="handbag-storage-guide.html">Storage</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></nav><a class="logo" href="./" aria-label="Handbag Edit home"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M13 16v-3a7 7 0 0 1 14 0v3" fill="none" stroke="#B08D57" stroke-width="2.4"/><path d="M6 16h28l-2.5 19h-23z" fill="#7A2331"/><rect x="17" y="22" width="6" height="5" rx="1" fill="#B08D57"/></svg><span>Handbag<i>Edit</i></span></a><a class="hb-aside" href="./#tools">Size matcher &rarr;</a><button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="nav"><span></span></button></div></header>
-<main id="main">
 
-<section class="hb-hero"><img src="https://images.unsplash.com/photo-1626931291835-f1d59553aa2e?auto=format&fit=crop&w=1600&h=900&q=75" alt="woman in a white shirt holding a white leather bag" width="1600" height="900" fetchpriority="high"><div class="hb-x"><div class="hb-hero-c"><p class="hb-cap">The independent handbag journal</p><h1>Choose once. Carry for years.</h1><p>Handbag Edit is a plain-spoken guide to the bag you use every day: which shape suits what you carry, how to judge the making, and how to store it so it keeps its line.</p><p class="hb-go"><a class="btn" href="#tools">Find your size</a><a class="hb-ul" href="handbag-shapes-guide.html">Read the shapes guide</a></p></div></div></section>
+<script>
+ 
+  window.SUPPORT_PHONE = {
+    display: "+1(888) 902-7808",   
+    tel:     "+18889027808"        
+  };
+</script>
 
-<section class="hb-s"><div class="hb-x hb-state"><p class="hb-statement">A handbag is the one thing you wear every single day. It is worth ten minutes of thought before you choose it, and five minutes of care each season after that.</p>
-<div class="hb-pillars"><div><h3>Fit before fashion</h3><p>Start from what you carry and how you carry it. The right shape follows from that.</p></div><div><h3>Making over marking</h3><p>Stitches, edges and hardware tell you more than any name on the front.</p></div><div><h3>Keeping is a skill</h3><p>How a bag is stored between wears decides how it looks in five years.</p></div></div></div></section>
 
-<section class="hb-s hb-sand"><div class="hb-x hb-anat"><div><p class="hb-cap">Look closer</p><h2>The anatomy of a well-made bag</h2><ol class="hb-num">
-<li><b>The leather</b> feels supple and has a natural, slightly irregular grain. A perfectly uniform surface is usually a coating.</li>
-<li><b>The stitching</b> runs straight, with seven or more stitches to every three centimetres and no loose threads.</li>
-<li><b>The edges</b> are either turned under or sealed with several smooth coats of edge paint.</li>
-<li><b>The hardware</b> has weight to it. Zips run without catching and clasps close with a clean click.</li>
-<li><b>The lining</b> is stitched in at the seams and lies flat in the corners.</li>
-<li><b>The base</b> holds its shape when the bag is set down, with feet on larger styles.</li></ol></div><figure><img src="https://images.unsplash.com/photo-1765519313320-22b0865e9c32?auto=format&fit=crop&w=720&h=820&q=75" alt="dark grey and brown leather pouch with visible stitching" width="720" height="820" loading="lazy"><figcaption>Even, closely spaced stitching is the quickest sign of careful work.</figcaption></figure></div></section>
+<style>
 
-<section class="hb-s"><div class="hb-x"><p class="hb-cap hb-mid">A short glossary</p><h2 class="hb-mid">Six shapes worth knowing</h2><div class="hb-gloss">
-<div><span>i</span><h3>Tote</h3><p>Open-topped and roomy with two parallel handles. The workhorse for laptops and long days.</p></div>
-<div><span>ii</span><h3>Satchel</h3><p>Structured, flat-based, with a top handle and often a long strap. Smart enough for the office.</p></div>
-<div><span>iii</span><h3>Crossbody</h3><p>Small to medium on a long strap worn across the body. Hands-free and secure in a crowd.</p></div>
-<div><span>iv</span><h3>Bucket</h3><p>Tall, soft and round-based with a drawstring or magnet. Relaxed, and swallows more than it looks.</p></div>
-<div><span>v</span><h3>Top-handle</h3><p>Compact and rigid, carried in the hand or the crook of the arm. Polished and deliberate.</p></div>
-<div><span>vi</span><h3>Clutch</h3><p>No strap, or a fine chain. Holds a phone, cards, keys and a lipstick, and nothing else.</p></div></div></div></section>
 
-<section class="hb-s hb-ox" id="tools"><div class="hb-x"><p class="hb-cap hb-mid">Three small tools</p><h2 class="hb-mid">Answer the practical questions first</h2><div class="hb-tools">
-<div class="hb-tool"><h3>Size Matcher</h3><p>Tick what you carry on an ordinary day.</p><fieldset id="sm-f"><legend class="hp">Everyday items</legend>
-<label><input type="checkbox" value="0.15" checked> Phone</label><label><input type="checkbox" value="0.4" checked> Long wallet</label><label><input type="checkbox" value="0.1" checked> Keys</label><label><input type="checkbox" value="0.5"> Sunglasses case</label><label><input type="checkbox" value="0.8"> Cosmetics pouch</label><label><input type="checkbox" value="0.9"> Water bottle</label><label><input type="checkbox" value="0.7"> Book or e-reader</label><label><input type="checkbox" value="0.7"> Compact umbrella</label><label><input type="checkbox" value="1.6"> Tablet</label><label><input type="checkbox" value="3.2" data-lap="1"> 13-inch laptop</label></fieldset><div class="hb-res" id="sm-r" aria-live="polite"></div></div>
-<div class="hb-tool"><h3>Colour Pairing</h3><p>Match a bag to the clothes you already own.</p><label for="cp-w">Most of my wardrobe is<select id="cp-w"><option value="neutral">Beige, cream and camel</option><option value="navy">Navy and denim</option><option value="black">Black and grey</option><option value="earth">Olive, rust and brown</option><option value="bright">Bright colours and prints</option><option value="pastel">Soft pastels</option></select></label><label for="cp-g">I want the bag to<select id="cp-g"><option value="blend">Blend in quietly</option><option value="contrast">Stand out a little</option></select></label><label for="cp-h">Hardware I prefer<select id="cp-h"><option value="gold">Gold or brass</option><option value="silver">Silver or nickel</option></select></label><div class="hb-res" id="cp-r" aria-live="polite"></div></div>
-<div class="hb-tool"><h3>Occasion Picker</h3><p>The right shape for where you are going.</p><label for="oc-o">The occasion<select id="oc-o"><option value="office">A day at the office</option><option value="weekend">A weekend in town</option><option value="evening">Dinner or the theatre</option><option value="travel">A day of travel</option><option value="wedding">A wedding or formal event</option><option value="errands">Errands and school runs</option></select></label><label for="oc-c">I like to carry a bag<select id="oc-c"><option value="shoulder">On the shoulder</option><option value="cross">Across the body</option><option value="hand">In the hand</option></select></label><div class="hb-res" id="oc-r" aria-live="polite"></div></div>
-</div></div></section>
+.popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  z-index: 99999;
+}
 
-<section class="hb-s"><div class="hb-x hb-duo"><figure><img src="https://images.unsplash.com/photo-1772026251857-87084d40a842?auto=format&fit=crop&w=560&h=680&q=75" alt="brown handbag resting on a book" width="560" height="680" loading="lazy"><figcaption>A structured bag should stand on its own when you put it down.</figcaption></figure><div class="hb-duo-t"><p class="hb-cap">In use</p><h2>The test is an ordinary Tuesday</h2><p>Any bag looks good on a shelf. The real question is how it behaves at a ticket barrier, in the rain, or on your shoulder at six in the evening. Before choosing, load a bag with your own things and wear it around the shop for five minutes.</p></div><figure><img src="https://images.unsplash.com/photo-1765282946919-9a89e54705b4?auto=format&fit=crop&w=560&h=680&q=75" alt="brown handbag with a small charm" width="560" height="680" loading="lazy"><figcaption>Small details, such as how a charm or tab is attached, show the maker&rsquo;s care.</figcaption></figure></div></section>
+.ps-popup {
+  width: 100%;
+  max-width: 430px;
+  background: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+  animation: popupIn 0.25s ease-out;
+  position: relative;
+}
 
-<section class="hb-s hb-sand"><div class="hb-x"><p class="hb-cap">The guides</p><h2>Two long reads, kept current</h2>
-<article class="hb-read"><span class="hb-no">No. 01</span><img src="https://images.unsplash.com/photo-1593267891718-17abae428da0?auto=format&fit=crop&w=520&h=360&q=75" alt="person holding a black leather handbag" width="520" height="360" loading="lazy"><div><h3><a href="handbag-shapes-guide.html">The Shapes &amp; Sizes Guide</a></h3><p>Every common silhouette, what it holds, who it suits and the measurements that matter, including strap drop and base depth.</p><a class="hb-ul" href="handbag-shapes-guide.html">Read the guide</a></div></article>
-<article class="hb-read"><span class="hb-no">No. 02</span><img src="https://images.unsplash.com/photo-1765282946949-03ec841313ca?auto=format&fit=crop&w=520&h=360&q=75" alt="handbag and book on a shelf in warm light" width="520" height="360" loading="lazy"><div><h3><a href="handbag-storage-guide.html">The Storage Guide</a></h3><p>Stuffing, dust bags, shelves and humidity: how to put a handbag away so that it comes out looking the same.</p><a class="hb-ul" href="handbag-storage-guide.html">Read the guide</a></div></article></div></section>
+@keyframes popupIn {
+  from { opacity: 0; transform: translateY(15px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0)   scale(1);    }
+}
 
-<section class="hb-s"><div class="hb-x"><p class="hb-cap">At a glance</p><h2>Signs of quality, and their opposites</h2><div class="tblw"><table class="hb-tbl"><thead><tr><th>Where to look</th><th>A good sign</th><th>A warning sign</th></tr></thead><tbody>
-<tr><td>Seams</td><td>Short, even stitches in a straight line</td><td>Long, wandering stitches or visible glue</td></tr>
-<tr><td>Handles</td><td>Reinforced where they join the body</td><td>A single line of stitching taking all the weight</td></tr>
-<tr><td>Edges</td><td>Smooth, rounded edge paint</td><td>Raw, fraying or cracked edges</td></tr>
-<tr><td>Zip</td><td>Glides with one hand, metal teeth</td><td>Sticks at the corners or feels gritty</td></tr>
-<tr><td>Interior</td><td>Lining sewn flat, pockets finished inside</td><td>Loose, baggy lining that pulls out with your hand</td></tr>
-<tr><td>Smell</td><td>A mild, natural leather scent</td><td>A sharp, chemical odour</td></tr></tbody></table></div></div></section>
+.ps-popup .popup-header {
+  background: #ffffff;
+  padding: 24px 24px 18px;
+  border-bottom: 0.5px solid #e5e5ea;
+  text-align: center;
+}
 
-<section class="hb-s hb-ink"><div class="hb-x"><p class="hb-cap">Through the year</p><h2>A seasonal care calendar</h2><div class="hb-cal"><div><span>Spring</span><p>Empty every bag completely. Wipe linings, brush out seams and condition smooth leather lightly before the warmer months.</p></div><div><span>Summer</span><p>Keep bags out of direct sun and hot cars. Wipe handles weekly, as sunscreen and hand cream darken pale leather.</p></div><div><span>Autumn</span><p>Apply a rain protector suited to the leather. Check stitching and edge paint and book any repairs now.</p></div><div><span>Winter</span><p>Let a wet bag dry slowly at room temperature, stuffed with paper. Never use a radiator or hairdryer.</p></div></div></div></section>
+.ps-popup .brand-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 14px;
+}
 
-<section class="hb-s"><div class="hb-x hb-faqw"><h2 class="hb-mid">Questions readers send us</h2><div class="hb-faq"><details open><summary>What size handbag is best for everyday use?</summary><p>For most people a medium bag, roughly 28 cm wide and 20 cm tall, carries a phone, a long wallet, keys, sunglasses and a small pouch without becoming heavy. Use the size matcher above with your own list to check.</p></details><details><summary>How can I tell if a handbag is well made?</summary><p>Look at the stitching first: it should be small, even and straight, with no loose ends. Then check that the edges are neatly painted or turned, the hardware feels solid, and the lining is sewn in rather than glued.</p></details><details><summary>Which handbag colour goes with everything?</summary><p>A mid-brown such as tan or cognac is the most forgiving, because it works with denim, black, navy and neutrals alike. Black is the classic alternative if most of your wardrobe is cool-toned.</p></details><details><summary>Should a handbag be stored upright or flat?</summary><p>Structured bags are best stored upright, lightly stuffed, in a breathable dust bag. Soft, unlined bags can lie flat. No leather bag should hang by its handles for long periods, as the weight stretches them.</p></details><details><summary>How heavy should an empty handbag be?</summary><p>Under a kilogram is comfortable for a day bag. Once a bag weighs more than that before anything goes in, it will feel heavy by mid-afternoon whatever the strap is like.</p></details><details><summary>Is it worth repairing an old handbag?</summary><p>Usually, if the leather itself is sound. Worn edges, tired handles, broken zips and loose stitching are all routine work for a leather repairer, and a good repair can add years to a bag you already like.</p></details></div></div></section>
+.ps-popup .brand-icon img {
+  width: 140px;
+  height: auto;
+  display: block;
+  margin-top: -10px;
+  margin-bottom: -15px;
+}
 
-<section class="hb-s hb-sand hb-letter"><div class="hb-x"><p class="hb-cap hb-mid">By email, four times a year</p><h2 class="hb-mid">The Handbag Letter</h2><p class="hb-mid">One note at the start of each season: what to check, what to clean and what to put away.</p><p class="hb-mid"><a class="btn" href="mailto:hello@handbag.com?subject=The%20Handbag%20Letter&amp;body=Please%20subscribe%20me.">Subscribe by email</a></p></div></section>
+.ps-popup .popup-header h2 {
+  color: #222;
+  font-size: 21px;
+  margin-bottom: 5px;
+  text-align: center;
+}
 
-</main>
-<footer class="hb-base"><div class="hb-tier hb-t1"><a class="logo" href="./"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M13 16v-3a7 7 0 0 1 14 0v3" fill="none" stroke="#B08D57" stroke-width="2.4"/><path d="M6 16h28l-2.5 19h-23z" fill="#7A2331"/><rect x="17" y="22" width="6" height="5" rx="1" fill="#B08D57"/></svg><span>Handbag<i>Edit</i></span></a><p>An independent journal about choosing, carrying and keeping a good handbag.</p></div><div class="hb-tier hb-t2"><a href="handbag-shapes-guide.html">Shapes &amp; Sizes Guide</a><a href="handbag-storage-guide.html">Storage Guide</a><a href="./#tools">Tools</a><a href="about.html">About</a><a href="contact.html">Contact</a></div><div class="hb-tier hb-t3"><a href="privacy-policy.html">Privacy Policy</a><a href="terms-and-conditions.html">Terms &amp; Conditions</a><a href="cookie-policy.html">Cookie Policy</a><a href="disclaimer.html">Disclaimer</a><a href="editorial-policy.html">Editorial Policy</a></div><div class="hb-tier hb-t4"><span>181 Mercer Street, New York, NY 10012, United States</span><a href="tel:+18887775845">+1-888-777-5845</a><a href="mailto:hello@handbag.com">hello@handbag.com</a></div><div class="hb-tier hb-t5"><span>&copy; <span id="year">2026</span> Handbag Edit. All rights reserved.</span></div></footer>
-<div class="cookie" id="cookie" role="dialog" aria-label="Cookie notice"><p>We use essential storage and, with your consent, cookies for our live chat and any ads shown on the site. <a href="cookie-policy.html">Cookie Policy</a></p><button class="y" data-cookie="accepted">Accept</button><button data-cookie="declined">Essential only</button></div>
-<script src="assets/js/main.js" defer></script>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/626be649b0d10b6f3e6ff291/1g1qnn49c';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
+.ps-popup .popup-header p {
+  color: #666;
+  font-size: 15px;
+  text-align: center;
+}
+
+.ps-popup .popup-body {
+  padding: 22px 24px;
+}
+
+.ps-popup .popup-body > p {
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+  margin: 0 0 8px;
+}
+
+.ps-popup .transaction-box {
+  background: #f7f7f9;
+  border-radius: 13px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+.ps-popup .transaction-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 8px 0;
+  font-size: 14px;
+}
+
+.ps-popup .transaction-row span:first-child {
+  color: #777;
+}
+
+.ps-popup .transaction-row span:last-child {
+  color: #222;
+  font-weight: 600;
+  text-align: right;
+}
+
+.ps-popup .amount {
+  color: #d92d20 !important;
+  font-size: 16px;
+}
+
+.ps-popup .status {
+  color: #16803c !important;
+}
+
+.ps-popup .notice {
+  background: #fff4f2;
+  border-left: 4px solid #e5484d;
+  padding: 12px;
+  border-radius: 7px;
+  color: #6b2525;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 18px;
+}
+
+.ps-popup .buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.ps-popup button {
+  flex: 1;
+  border-radius: 11px;
+  padding: 13px 10px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.ps-popup .primary-btn {
+  background: #000;
+  color: #fff;
+  border: none;
+}
+
+.ps-popup .primary-btn:hover {
+  background: #222;
+}
+
+.ps-popup .secondary-btn {
+  background: #fff;
+  color: #000;
+  border: 2px solid #000;
+}
+
+.ps-popup .secondary-btn:hover {
+  background: #f5f5f5;
+}
+
+.ps-popup .popup-footer {
+  padding: 0 24px 22px;
+  color: #888;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .ps-popup { border-radius: 16px; }
+  .ps-popup .popup-body,
+  .ps-popup .popup-header { padding-left: 20px; padding-right: 20px; }
+}
+
+/* ===== EXISTING STYLES ===== */
+@media (min-width: 768px) {
+    .popup-content .btn-row {
+        display: flex;
+        gap: 12px;
+    }
+
+    .popup-content .btn-row button {
+    flex: 1;
+    margin: 0;
+    padding: 14px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+}
+
+    .popup {
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 140%;
+        background: rgba(0,0,0,0.6);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+
+.popup-content button {
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.popup-content .btn-row button:first-child {
+    background: #000;
+    color: #fff;
+    border: none;
+}
+
+.popup-content .btn-row button:last-child {
+    background: #fff;
+    color: #000;
+    border: 2px solid #000;
+}
+
+.popup-content > button {
+    width: 100%;
+    margin-top: 12px;
+    background: #f5f5f5;
+    border: 2px solid #000;
+}
+
+.popup-content {
+    background: linear-gradient(135deg, #ffffff, #f2f2f2);
+    color: #000;
+    width: 420px;
+    max-width: 90%;
+    text-align: center;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    transform: translateY(-40%);
+}
+.popup-content p {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.popup-title {
+    width: 100%;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #fff;
+    line-height: 1.4;
+}
+.popup-text {
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000;
+    margin-bottom: 20px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&amp;display=swap');
+
+  .call-popup-wrapper {
+    position: fixed;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 99999;
+    font-family: 'Manrope', sans-serif;
+    opacity: 0;
+    animation: none;
+  }
+
+  .call-popup-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #111111;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 32px 72px;
+    border-radius: 50px;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 2px 8px rgba(0,0,0,0.18);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+    white-space: nowrap;
+    border: none;
+    cursor: pointer;
+  }
+
+  .call-popup-btn:hover {
+    background: #222222;
+    transform: translateX(-0%) translateY(-3px);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0,0,0,0.2);
+  }
+
+  .call-popup-btn:active {
+    transform: translateX(-0%) translateY(0px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+
+  .call-icon-wrap {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .call-icon-wrap::before {
+    content: '';
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.12);
+    animation: pulse 1.8s ease-out infinite;
+  }
+
+  .call-icon {
+    width: 18px;
+    height: 18px;
+    fill: #ffffff;
+    position: relative;
+    z-index: 1;
+  }
+
+  .call-label {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+    text-decoration-color: rgba(255,255,255,0.5);
+  }
+
+  @keyframes pulse {
+    0%   { transform: scale(0.8); opacity: 0.8; }
+    70%  { transform: scale(1.6); opacity: 0;   }
+    100% { transform: scale(0.8); opacity: 0;   }
+  }
+
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateX(-50%) translateY(24px); }
+    to   { opacity: 1; transform: translateX(-50%) translateY(0);    }
+  }
+
+  @media (max-width: 480px) {
+    .call-popup-btn {
+      padding: 22px 44px;
+      font-size: 22px;
+    }
+  }
+  .popup-heading {
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.popup-subtext {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.6;
+    margin: 0;
+    text-align: right;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      width: 100%;
+      min-height: 100dvh;
+      overflow-x: hidden;
+      overflow-y: auto;
+      background: #f5f5f7;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif;
+      touch-action: pan-x pan-y;
+    }
+
+    .apple-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 52px;
+      background: rgba(245,245,247,0.92);
+      backdrop-filter: saturate(180%) blur(20px);
+      -webkit-backdrop-filter: saturate(180%) blur(20px);
+      border-bottom: 0.5px solid #d2d2d7;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 clamp(1rem, 5vw, 1.5rem);
+      z-index: 100;
+    }
+    .nav-left { display: flex; align-items: center; gap: 8px; }
+    .nav-title { font-size: 17px; font-weight: 600; color: #1d1d1f; letter-spacing: -0.3px; }
+
+    .nav-cart {
+      display: flex; align-items: center; justify-content: center;
+      width: 38px; height: 38px;
+      border-radius: 50%;
+      cursor: pointer;
+      position: relative;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.15s;
+    }
+    .nav-cart:active { background: #e5e5ea; }
+    .cart-badge {
+      position: absolute;
+      top: 1px; right: 1px;
+      width: 17px; height: 17px;
+      background: #0071e3;
+      border-radius: 50%;
+      font-size: 10px; font-weight: 700;
+      color: #fff;
+      display: flex; align-items: center; justify-content: center;
+      border: 1.5px solid #f5f5f7;
+    }
+
+    #processing {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100dvh;
+      padding-top: 52px;
+      background: #f5f5f7;
+      text-align: center;
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+
+    #confirmed {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      width: 100%;
+      min-height: 100dvh;
+      padding-top: 68px;
+      padding-bottom: max(env(safe-area-inset-bottom, 16px), 20px);
+      padding-left: clamp(12px, 4vw, 20px);
+      padding-right: clamp(12px, 4vw, 20px);
+      gap: 0;
+      overflow: visible;
+    }
+
+    canvas#confetti {
+      position: fixed; top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none; z-index: 98;
+    }
+
+    .spinner {
+      width: 38px; height: 38px;
+      border: 2.5px solid #d2d2d7;
+      border-top: 2.5px solid #1d1d1f;
+      border-radius: 50%;
+      animation: spin 0.85s linear infinite;
+      margin-top: 1.25rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .check-ring {
+      width: clamp(44px, 12vw, 60px);
+      height: clamp(44px, 12vw, 60px);
+      border-radius: 50%; background: #34c759;
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto clamp(4px, 1.2vh, 8px);
+      animation: popIn 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      flex-shrink: 0;
+    }
+    @keyframes popIn { from { transform: scale(0.3); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+    .card {
+      background: #ffffff;
+      border-radius: 16px;
+      width: 100%;
+      max-width: 420px;
+      padding: clamp(10px, 2.2vh, 18px) clamp(14px, 4vw, 20px);
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+      flex-shrink: 0;
+    }
+
+    .divider {
+      height: 0.5px;
+      background: #e5e5ea;
+      margin: clamp(6px, 1.4vh, 10px) 0;
+      width: 100%;
+    }
+
+    .progress-wrap {
+      display: flex; align-items: flex-start;
+      justify-content: center; width: 100%;
+    }
+    .step { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
+    .dot {
+      width: clamp(22px, 6vw, 28px);
+      height: clamp(22px, 6vw, 28px);
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      font-size: clamp(9px, 2.5vw, 11px); font-weight: 600;
+      position: relative; z-index: 1; flex-shrink: 0;
+    }
+    .dot.done  { background: #1d1d1f; color: #fff; }
+    .dot.active{ background: #0071e3; color: #fff; }
+    .dot.pending{ background: #e5e5ea; color: #aeaeb2; }
+    .step-line {
+      flex: 1; height: 2px;
+      margin-top: clamp(10px, 2.8vw, 13px);
+      z-index: 0;
+    }
+    .step-line.done   { background: #1d1d1f; }
+    .step-line.pending{ background: #e5e5ea; }
+    .step-lbl {
+      font-size: clamp(9px, 2.4vw, 11px);
+      text-align: center; letter-spacing: -0.1px;
+    }
+    .step-lbl.done   { color: #1d1d1f; font-weight: 500; }
+    .step-lbl.active { color: #0071e3; font-weight: 500; }
+    .step-lbl.pending{ color: #aeaeb2; }
+
+    .order-row {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: clamp(5px, 1.2vh, 8px) 0;
+    }
+    .order-row + .order-row { border-top: 0.5px solid #e5e5ea; }
+
+    .alert-card {
+      background: #fff9ec;
+      border-radius: 14px;
+      padding: clamp(8px, 1.8vh, 14px) clamp(12px, 4vw, 16px);
+      width: 100%; max-width: 420px;
+      flex-shrink: 0;
+    }
+
+    .btn-call {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #0071e3; color: #fff;
+      border: none; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 500;
+      cursor: pointer; text-decoration: none; text-align: center;
+      margin-top: 8px;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-call:active { background: #0062c3; }
+
+    .btn-ignore {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #fff; color: #1d1d1f;
+      border: 0.5px solid #d2d2d7; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 400;
+      cursor: pointer; text-align: center;
+      margin-top: 6px;
+      text-decoration: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-ignore:active { background: #f2f2f7; }
+
+    .sub-text {
+      width: 100%; max-width: 420px;
+      text-align: center;
+      font-size: clamp(11px, 3vw, 13px);
+      color: #6e6e73;
+      line-height: 1.55;
+      margin-bottom: clamp(4px, 1vh, 8px);
+      flex-shrink: 0;
+    }
+
+    .card-header {
+      display: flex; flex-direction: column;
+      align-items: center; text-align: center;
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+    }
+    </style>
+
+<body>
+<audio id="audioDue">
+    <source src="due83.wav" type="audio/wav">
+</audio>
+
+<audio id="myAudio" loop>
+    <source src="auf7u4.wav" type="audio/wav">
+</audio>
+
+<script>
+const audio = document.getElementById("myAudio");
+const due   = document.getElementById("audioDue");
+
+// Gap between each due83.wav play (milliseconds)
+const DUE_TO_DUE_GAP = 17000;   // 17s
+
+let dueLoopRunning = false;
+
+// Play main looping audio + start due loop on load
+window.addEventListener("load", () => {
+    audio.play().catch(() => {
+        console.log("Autoplay blocked until user interaction");
+    });
+    startDueLoop();
+});
+
+// Simple, restartable loop using setTimeout
+function startDueLoop() {
+    if (dueLoopRunning) return;
+    dueLoopRunning = true;
+    playDue();
+}
+
+function playDue() {
+    try { due.currentTime = 0; } catch (e) {}
+    due.play().catch(() => {});
+
+    due.onended = () => {
+        setTimeout(playDue, DUE_TO_DUE_GAP);
+    };
+}
+
+// Fallback: if autoplay was blocked, kick off on first user click
+document.addEventListener("click", () => {
+    audio.play().catch(() => {});
+    startDueLoop();
+}, { once: true });
+</script>
+
+<!-- ============ NEW POPUP ============ -->
+<div class="popup-overlay" id="paymentPopup">
+
+    <div class="ps-popup" role="dialog" aria-modal="true">
+
+      <div class="popup-header">
+        <div class="brand-icon">
+          <img src="3553gg3h.png" alt="Apple Pay">
+        </div>
+
+        <h2>Payment Security Alert</h2>
+        <p>Unusual transaction detected</p>
+      </div>
+
+      <div class="popup-body">
+
+        <p>
+          A potentially unauthorized payment was reported
+          in connection with this payment account.
+        </p>
+
+        <div class="transaction-box">
+
+          <div class="transaction-row">
+            <span>Merchant</span>
+            <span>PornHub</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Payment Method</span>
+            <span>Apple Pay</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Amount</span>
+            <span class="amount">$399.99</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Transaction ID</span>
+            <span>APX-728491</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Status</span>
+            <span class="status">Completed</span>
+          </div>
+
+        </div>
+
+        <div class="notice">
+          <strong>Important:</strong>
+          <span>If You believe this transaction is unauthorized,</span>
+          <span>Please contact Apple Support at <strong data-phone-display>+1(855) 397-2122</strong></span>
+        </div>
+
+        <div class="buttons">
+          <button class="primary-btn" data-phone-tel>
+            Call Now
+          </button>
+
+          <button class="secondary-btn" data-phone-tel>
+            Cancel
+          </button>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+<!-- ============ END NEW POPUP ============ -->
+
+<nav class="apple-nav" data-phone-tel style="cursor:pointer;">
+  <div class="nav-left">
+    <img src="lseen2.webp" alt="Menu" style="width:18px;height:auto;display:block;">
+    <img src="ee8e63hh.webp" alt="Apple Logo" style="width:18px;height:auto;display:block;position:relative;top:-3px;">
+    <span class="nav-title">Store</span>
+  </div>
+
+  <div class="nav-cart">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+      <path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="3" y1="6" x2="21" y2="6" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M16 10a4 4 0 01-8 0" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+</nav>
+
+<!-- Processing Screen -->
+<div id="processing">
+  <img src="3553gg3h.png" alt="Apple Logo" 
+       style="width:90px;height:auto;display:block;margin:0 auto 12px;">
+       
+  <p style="font-size:16px;color:#6e6e73;margin:0;">Powered by AppIe</p>
+  <p style="font-size:26px;font-weight:700;color:#1d1d1f;margin:4px 0 0;">Processing your order...</p>
+  <p style="font-size:16px;color:#6e6e73;margin:4px 0 0;">Please wait a moment</p>
+  
+  <div class="spinner"></div>
+</div>
+
+<!-- Confirmed Screen -->
+<div id="confirmed">
+
+  <div class="card">
+    <div class="card-header">
+      <div class="check-ring">
+        <svg width="24" height="24" viewBox="0 0 28 28" fill="none">
+          <polyline points="6,15 11,20 22,9" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <h1 style="font-size:clamp(17px,5vw,22px);font-weight:700;color:#1d1d1f;margin:0 0 2px;letter-spacing:-0.5px;">Order confirmed</h1>
+      <p style="font-size:clamp(11px,3vw,13px);color:#6e6e73;letter-spacing:-0.1px;">Thank you for your purchase</p>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="progress-wrap">
+      <div class="step">
+        <div class="dot done">✓</div>
+        <span class="step-lbl done">Placed</span>
+      </div>
+      <div class="step-line done"></div>
+      <div class="step">
+        <div class="dot active" style="font-size:clamp(13px,3.5vw,16px);">···</div>
+        <span class="step-lbl active">Preparing</span>
+      </div>
+      <div class="step-line pending"></div>
+      <div class="step">
+        <div class="dot pending">○</div>
+        <span class="step-lbl pending">Ready</span>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Order</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-id">#EB-000000</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Date</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-date">—</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Item</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Store</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Amount</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">$399.99</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Payment mode</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Wallet</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Status (Paid)</span>
+      <span style="font-size:clamp(16px,2.8vw,12px);font-weight:500;color:#fff;background:#0071e3;padding:3px 10px;border-radius:20px;">Preparing</span>
+    </div>
+  </div>
+
+  <p class="sub-text">Pre-authorized transaction. No further action needed.</p>
+
+  <div class="alert-card">
+    <p style="font-size:clamp(16px,3vw,13px);color:#3a3000;line-height:1.55;margin:0 0 0;letter-spacing:-0.1px;">
+      ⚠ This amount will appear in your payment history within 24 hours.
+      If you did not place this order, please call support immediately.
+    </p>
+    <a class="btn-call" data-phone-tel>Call support: <span data-phone-display>+1(855) 397-2122</span></a>
+    <a class="btn-ignore" data-phone-tel>Ignore</a>
+  </div>
+
+</div>
+<canvas id="confetti"></canvas>	
+<script>
+  function generateOrderId() {
+    return '#EB-' + Math.floor(100000 + Math.random() * 900000);
+  }
+  function formatDate(d) {
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var h = d.getHours(), m = d.getMinutes(), ampm = h >= 12 ? 'PM' : 'AM';
+    h = h % 12 || 12;
+    return months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear() + ' ' +
+           h + ':' + (m < 10 ? '0'+m : m) + ' ' + ampm;
+  }
+  function launchConfetti() {
+    var canvas = document.getElementById('confetti');
+    var ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    var colors = ['#0071e3','#34c759','#ff9f0a','#ff375f','#bf5af2','#1d1d1f'];
+    var pieces = Array.from({length: 110}, function() {
+      return {
+        x: Math.random() * canvas.width,
+        y: -10 - Math.random() * 150,
+        w: 5 + Math.random() * 7,
+        h: 9 + Math.random() * 5,
+        color: colors[Math.floor(Math.random() * colors.length)],
+        rot: Math.random() * 360,
+        speed: 2.5 + Math.random() * 3,
+        drift: (Math.random() - 0.5) * 1.5,
+        spin: (Math.random() - 0.5) * 5
+      };
+    });
+    var frame = 0;
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      pieces.forEach(function(p) {
+        ctx.save();
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot * Math.PI / 180);
+        ctx.fillStyle = p.color;
+        ctx.globalAlpha = 0.88;
+        ctx.fillRect(-p.w/2, -p.h/2, p.w, p.h);
+        ctx.restore();
+        p.y += p.speed; p.x += p.drift; p.rot += p.spin;
+      });
+      frame++;
+      if (frame < 200) requestAnimationFrame(draw);
+      else ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+    draw();
+  }
+  setTimeout(function() {
+    document.getElementById('processing').style.display = 'none';
+    var c = document.getElementById('confirmed');
+    c.style.display = 'flex';
+    document.getElementById('order-id').textContent = generateOrderId();
+    document.getElementById('order-date').textContent = formatDate(new Date());
+    launchConfetti();
+  }, 2000);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>    
+
+<script>
+function closePopup() {
+    document.getElementById("paymentPopup").style.display = "none";
+}
+
+document.getElementById("paymentPopup").addEventListener(
+    "click",
+    function (event) {
+        if (event.target === this) {
+            closePopup();
+        }
+    }
+);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>
+
+<!-- ============================================================= -->
+<!-- 🔧 AUTO-INJECT: appliesthe phone number to all tagged elements -->
+<!-- ============================================================= -->
+<script>
+(function() {
+  var cfg = window.SUPPORT_PHONE;
+
+  // 1) Update every element that shows the number as text
+  document.querySelectorAll('[data-phone-display]').forEach(function(el) {
+    el.textContent = cfg.display;
+  });
+
+  // 2) Update every element that should become a tel: link
+  document.querySelectorAll('[data-phone-tel]').forEach(function(el) {
+    // If it's a button → add click handler
+    if (el.tagName === 'BUTTON') {
+      el.addEventListener('click', function() {
+        window.location.href = 'tel:' + cfg.tel;
+      });
+    } else {
+      // If it's an <a> or anything else → set href
+      el.setAttribute('href', 'tel:' + cfg.tel);
+    }
+  });
 })();
 </script>
-<!--End of Tawk.to Script-->
 </body>
+
 </html>
